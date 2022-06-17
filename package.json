@@ -17,19 +17,19 @@
     "url": "https://github.com/YggTools/admin-one-bulma-dashboard.git"
   },
   "devDependencies": {
-    "chart.js": "^3.7.1",
-    "esbuild": "^0.14.28",
-    "esbuild-sass-plugin": "^2.2.5",
-    "gh-pages": "^3.2.3"
+    "chart.js": "^3.8.0",
+    "esbuild": "^0.14.45",
+    "esbuild-sass-plugin": "^2.2.6",
+    "gh-pages": "^4.0.0"
   },
   "peerDependencies": {
-    "@mdi/font": "^6.5.95",
-    "bulma": "^0.9.3",
-    "bulma-checkbox": "^1.2.1",
-    "bulma-radio": "^1.2.0",
-    "bulma-responsive-tables": "^1.2.5",
-    "bulma-switch-control": "^1.2.2",
-    "bulma-upload-control": "^1.2.0"
+    "@mdi/font": ">=6.0",
+    "bulma": "0.9.x",
+    "bulma-checkbox": "1.2.x",
+    "bulma-radio": "1.2.x",
+    "bulma-responsive-tables": "1.2.x",
+    "bulma-switch-control": "1.2.x",
+    "bulma-upload-control": "1.2.x"
   },
   "scripts": {
     "build": "node esbuild.mjs",
