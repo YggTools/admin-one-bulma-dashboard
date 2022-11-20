@@ -23,7 +23,7 @@
     "gh-pages": "^4.0.0"
   },
   "peerDependencies": {
-    "@mdi/font": ">=6.0",
+    "@mdi/font": ">=7.0",
     "bulma": "0.9.x",
     "bulma-checkbox": "1.2.x",
     "bulma-radio": "1.2.x",
